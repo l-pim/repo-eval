@@ -16,3 +16,5 @@ Création du compte sur groq
 ![image](https://github.com/user-attachments/assets/5417a144-f12b-49ff-944a-4645a0e01c6f)
 
 ![image](https://github.com/user-attachments/assets/9adc754d-0037-4c1a-99b8-5a7b04837ebc)
+
+![image](https://github.com/user-attachments/assets/7beaa2f3-c7b6-4716-b425-b8d1ed8d8af5)
